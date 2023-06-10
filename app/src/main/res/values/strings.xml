@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HappyBirthdayRustBreaker</string>
+    <string name="happy_birthday_kotlin">Happy Birthday Kotlin</string>
+    <string name="from_fish">From Fish</string>
+</resources>
